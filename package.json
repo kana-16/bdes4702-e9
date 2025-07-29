@@ -1,0 +1,14 @@
+{
+  "name": "bdes4702-e9",
+  "version": "1.0.0",
+  "description": "My first experience with browser automation",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
